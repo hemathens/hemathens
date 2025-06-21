@@ -14,10 +14,12 @@
 
 ---
 
-## 🥇 Kaggle Achievements
+## 🥇 Achievements
+- 🏆 Ranked 6th at a National Level Hackathon "[DevSummit 2025](https://www.linkedin.com/posts/hem-patel19_devsummit2025-hackathonexperience-machinelearning-activity-7314547399346081793-Bln2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBBtVYB2daWZBo_0kCAOMPXiyf4ocUB4h4)" (click on the link to get directed to the LinkedIN post)
+- 🥈 2nd Globally on Kaggle for achieving 99.88% ML Model Accuracy on dataset [CIC IDS 2017](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
 - 🏅 **13 medals** across my kaggle account (see my Kaggle profile)
 - 📈 Creator of a **trending dataset on Kaggle** "[Superheros_abilities_dataset](https://www.kaggle.com/datasets/hemajitpatel/superheros-abilities-dataset)" with a perfect usability of 10 — thanks to the community for the support!
-- Actively solving problems in domains like image classification, regression, and feature engineering.
+- 💻 Actively participated in multiple Hackathons not missing out any opportunities to make new connections and will continue the good work
 
 ---
 
@@ -31,8 +33,8 @@
 - 🚀 Building and refining Kaggle projects (check pinned repos)
 - 🌱 Learning powerful ensemble methods: **CatBoost**, **LightGBM**, **XGBoost**, **RandomForest**
 - 🤝 Contributing to open-source tools for data analysis and visualization
-- 💻 Actively participating in multiple Hackathons not missing out any opportunities to make new connections
 - 🧭 I am still consistantly exploring my ways in the Tech World
+- 📊 Actively solving problems in domains like image classification, regression, and feature engineering
 
 ---
 
