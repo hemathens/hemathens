@@ -37,12 +37,18 @@
 ---
 
 ## 🛠️ Tech & Tools
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/catboost/catboost-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code> Jupyter  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"></code> Scikit-learn  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original-wordmark.svg"></code> XGBoost  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/catboost/catboost-original.svg"></code> CatBoost  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code> Pandas  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code> NumPy  
+<code><img height="20" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code> Seaborn  
+<code><img height="20" src="https://matplotlib.org/stable/_static/logo2_compressed.svg"></code> Matplotlib  
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Decision_Tree.jpg"></code> Random Forest  
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code> Keras  
 
 ---
 
