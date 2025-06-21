@@ -7,10 +7,8 @@
 ## 🚀 About Me
 - 💻 **Computer Engineering student** at CVM University
 - 🎯 Passionate about Generative AI, ML, and solving real-world problems
-- 🔗 Connect with me:
-  - [Kaggle](https://www.kaggle.com/hemajitpatel) – **Data Scientist & medalist**
-  - [LinkedIn](https://www.linkedin.com/in/hem-patel19)  
-  - [GitHub](https://github.com/hemathens)
+- 👨‍💻 Consistantly Participating in Hackathons held at various places
+- 🏓 Proffesional Table Tennis Player 
 
 ---
 
@@ -19,6 +17,7 @@
 - 🥈 2nd Globally on Kaggle for achieving 99.88% ML Model Accuracy on dataset [CIC IDS 2017](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
 - 🏅 **13 medals** across my kaggle account (see my Kaggle profile)
 - 📈 Creator of a **trending dataset on Kaggle** "[Superheros_abilities_dataset](https://www.kaggle.com/datasets/hemajitpatel/superheros-abilities-dataset)" with a perfect usability of 10 — thanks to the community for the support!
+- 🎓 Maintaining academics alltogether with cuurent CGPA of 9.0
 - 💻 Actively participated in multiple Hackathons not missing out any opportunities to make new connections and will continue the good work
 
 ---
