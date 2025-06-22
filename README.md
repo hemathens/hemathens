@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Hem Ajit Patel
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Hem%20Ajit%20Patel-20BEFF?logo=kaggle)](https://www.kaggle.com/hemajitpatel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Patel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hem-patel19)
+[![GitHub](https://img.shields.io/github/followers/hemathens?label=Follow&style=social)](https://github.com/hemathens)
+[![Stars](https://img.shields.io/github/stars/hemathens/kaggle-projects?style=social)](https://github.com/hemathens/kaggle-projects/stargazers)
+
 ![Profile views](https://komarev.com/ghpvc/?username=hemathens)
 
 ---
