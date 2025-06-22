@@ -45,6 +45,7 @@
 ## 🛠️ Tech & Tools
 
 Machine Learning & Python Libraries
+
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code> Jupyter  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code> NumPy  
@@ -57,11 +58,13 @@ Machine Learning & Python Libraries
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Decision_Tree.jpg"></code> Random Forest  
 
 Web & Frontend
+
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> HTML  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> CSS  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> JavaScript  
 
 Programming Languages
+
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> C  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> C++  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python 
