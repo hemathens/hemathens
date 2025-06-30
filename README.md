@@ -64,7 +64,7 @@ Machine Learning & Python Libraries
 
 <code><img height="30" alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code> Seaborn
 
-<code><img height="30" alt="Random Forest Icon" src="https://static.vecteezy.com/system/resources/previews/000/412/803/original/random-forest-algorithm-line-icon-vector-illustration.png"></code> Random Forest
+<code><img height="30" alt="Random Forest Classifier Icon" src="https://cdn-icons-png.flaticon.com/512/6566/6566755.png"></code> Random Forest
 
 Web & Frontend
 
