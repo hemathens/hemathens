@@ -44,7 +44,7 @@
 
 ## 🛠️ Tech & Tools
 
-# Machine Learning & Python Libraries
+### Machine Learning & Python Libraries
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python
 
@@ -67,7 +67,7 @@
 <code><img height="30" alt="Random Forest Classifier Icon" src="https://cdn-icons-png.flaticon.com/512/6566/6566755.png"></code> Random Forest
 
 
-# Web & Frontend
+### Web & Frontend
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> HTML
@@ -77,7 +77,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> JavaScript 
 
 
-# Programming Languages
+### Programming Languages
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> C
