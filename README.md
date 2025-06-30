@@ -54,8 +54,8 @@ Machine Learning & Python Libraries
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code> TensorFlow  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"></code> Keras  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code> Matplotlib  
-<code><img height="30" src="https://raw.githubusercontent.com/mwaskom/seaborn/main/doc/_static/logo-wide-lightbg.svg"></code> Seaborn
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Decision_Tree.jpg"></code> Random Forest
+<code><img height="30" alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code> Seaborn
+<code><img height="30" alt="Random Forest" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Decision_Tree.jpg"></code> Random Forest
 
 Web & Frontend
 
@@ -65,9 +65,12 @@ Web & Frontend
 
 Programming Languages
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> C  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> C++  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> C
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> C++
+
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python
+
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> JavaScript  
 
 ---
