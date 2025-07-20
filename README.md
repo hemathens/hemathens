@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Patel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hem-patel19)
 [![Followers](https://img.shields.io/github/followers/hemathens?label=Follow&style=social)](https://github.com/hemathens)
 [![Stars](https://img.shields.io/github/stars/hemathens/kaggle-projects?style=social)](https://github.com/hemathens/kaggle-projects/stargazers)
-
 ![Profile views](https://komarev.com/ghpvc/?username=hemathens)
 
 ---
@@ -48,7 +47,7 @@
 
 ## 🛠️ Tech & Tools
 
-<p align="center"> ### Machine Learning & Python Libraries
+### Machine Learning & Python Libraries
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python
 
@@ -69,7 +68,6 @@
 <code><img height="30" alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code> Seaborn
 
 <code><img height="30" alt="Random Forest Classifier Icon" src="https://cdn-icons-png.flaticon.com/512/6566/6566755.png"></code> Random Forest
-</p>
 
 ### Web & Frontend
 
