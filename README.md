@@ -29,10 +29,6 @@
 
 ## 📊 GitHub Stats
 
-![Hem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemathens&show_icons=true&theme=radical)
-
-## 📊 My GitHub Stats
-
 ![Hem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemathens&show_icons=true&count_private=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemathens&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
