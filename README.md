@@ -56,7 +56,7 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code> Pandas  
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"></code> Scikit-learn
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code> Scikit-learn
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code> TensorFlow  
 
