@@ -30,7 +30,7 @@
 
 ![Hem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemathens&show_icons=true&count_private=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hemathens&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hemathens)
 
 ![Hem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemathens&theme=radical)
 
