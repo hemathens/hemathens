@@ -50,13 +50,14 @@
 |------------------------------------|----------------|------------------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=000000) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=000000) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&labelColor=000000) |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&labelColor=000000) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=000000) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=000000) |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=000000) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000&labelColor=000000) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=000000) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=000000) | | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000&labelColor=000000) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=000000) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=000000) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=000000) | | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=000000) | | |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=000000) | | |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white&labelColor=000000) | | |
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C93?style=flat&logo=plotly&logoColor=white&labelColor=000000) | | |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-2E7D32?style=flat&logoColor=white&labelColor=000000) | | |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-2E7D32?style=flat&logo=seaborn&logoColor=white) | | |
+
 
 ---
 
