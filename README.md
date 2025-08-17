@@ -56,7 +56,7 @@
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=000000) | | |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white&labelColor=000000) | | |
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C93?style=flat&logo=plotly&logoColor=white&labelColor=000000) | | |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-2E7D32?style=flat&logo=seaborn&logoColor=white) | | |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-2E7D32?style=flat&logoColor=white) | | |
 
 
 ---
