@@ -46,48 +46,17 @@
 
 ## 🛠️ Tech & Tools
 
-### Machine Learning & Python Libraries
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code> Jupyter  
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code> NumPy  
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code> Pandas  
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code> Scikit-learn
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code> TensorFlow  
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"></code> Keras  
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code> Matplotlib  
-
-<code><img height="30" alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code> Seaborn
-
-<code><img height="30" alt="Random Forest Classifier Icon" src="https://cdn-icons-png.flaticon.com/512/6566/6566755.png"></code> Random Forest
-
-### Web & Frontend
-
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> HTML
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> CSS
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> JavaScript 
-
-
-### Programming Languages
-
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> C
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> C++
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> Python
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> JavaScript  
+| Machine Learning & Python Libraries | Web / Frontend | Programming Languages |
+|------------------------------------|----------------|------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | | |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | | |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) | | |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=blue) | | |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-2E7D32?style=flat&logoColor=white) | | |
 
 ---
 
