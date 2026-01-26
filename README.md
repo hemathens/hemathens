@@ -18,7 +18,7 @@
 ## 🥇 Achievements
 - 🏆 Ranked 6th at a National Level Hackathon "[DevSummit 2025](https://www.linkedin.com/posts/hem-patel19_devsummit2025-hackathonexperience-machinelearning-activity-7314547399346081793-Bln2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBBtVYB2daWZBo_0kCAOMPXiyf4ocUB4h4)" (click on the link to get directed to the LinkedIn post)
 - 🥈 2nd Globally on Kaggle for achieving 99.88% ML Model Accuracy on dataset [CIC IDS 2017](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
-- 🏅 **16 medals** across my kaggle account (see my Kaggle profile)
+- 🏅 **16 medals** across my kaggle account (check out my Kaggle profile)
 - 📈 Creator of a **trending dataset on Kaggle** "[Superheros_abilities_dataset](https://www.kaggle.com/datasets/hemajitpatel/superheros-abilities-dataset)" with a perfect usability of 10 — thanks to the community for the support!
 - 🎓 Maintaining academics alltogether with current CGPA of 9.0
 - 💻 Actively participated in multiple Hackathons not missing out any opportunities to make new connections and will continue the good work
